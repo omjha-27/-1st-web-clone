@@ -1,5 +1,5 @@
 # -1st-web-clone
-i made this using java and css .
+i made this using html and css .
 it's my first experince of making clone of a website .
 it's been athrilling journey full of ups and downs.
 i learn a lot of things and experince through this journey.
